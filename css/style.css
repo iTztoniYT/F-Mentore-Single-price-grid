@@ -93,7 +93,7 @@ button{
     max-width: 15.625rem;
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 500px) {
     .grid-container{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
